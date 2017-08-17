@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="name_hint">name</string>
+    <string name="age_hint">age</string>
+    <string name="title_hint">title</string>
+    <string name="button_send">send</string>
+    <string name="hint_salary">salary</string>
+</resources>
